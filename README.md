@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ThortonSlaughter
 - 👀 I’m interested in becoming a frontend developer!
 - 🌱 I’m currently learning HTML, CSS, JS, React.
+- 📚 I have a degree in chemical engineering with a double major in mathematics and minor in chemistry.
 
 <!---
 ThortonSlaughter/ThortonSlaughter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
