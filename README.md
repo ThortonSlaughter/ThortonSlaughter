@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThortonSlaughter
+- 👋 Hi, I’m @ThortonSlaughter.
 - 👀 I’m interested in becoming a fullstack software engineer!
 - 🌱 I’m currently learning HTML, CSS, JS, React.
 - 📚 I have a degree in chemical engineering with a double major in mathematics and minor in chemistry.
